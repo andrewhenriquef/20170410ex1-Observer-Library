@@ -1,4 +1,4 @@
-20170410ex1-Observer-Library
+Exercise 1 Observer Library
 
 1. Em um sistema de controle de empréstimo de uma biblioteca, cada exemplar tem um
 status que pode ser: disponível ou emprestado. Usuários da biblioteca podem
